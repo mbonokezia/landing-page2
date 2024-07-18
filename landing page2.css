@@ -1,0 +1,62 @@
+div.option1 {
+  background-image: url("./Happy\ place.jpg");
+  min-width: 400px;
+  min-height: 300px;
+}
+header div button {
+  color: blue;
+  min-height: 40px;
+  background-color: aqua;
+  font-size: 22px;
+}
+header div p {
+  color: white;
+  text-align: center;
+  font-size: 67px;
+}
+div button {
+  color: blue;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+  padding: 40px 5px;
+}
+.visit {
+  float: right;
+}
+header div nav ul p {
+  color: black;
+  font-size: 20px;
+  display: table-footer-group;
+}
+#img1 {
+    height: 10px;
+    width: 20px;
+    border: 1px solid;
+
+  position: relative; 
+  left: 250px;
+  top: 250px;
+}
+#img2{
+    height: 10px;
+    width: 20px;
+    border: 1px solid;
+      
+    position: absolute;
+    left: 250px;
+  top: 250px;
+}
+h3{
+    text-align: center;
+    font-size: 50px;
+    color: blue;
+}
+article div{
+    color: aqua;
+}
+aside{
+  background-color: blue;
+  column-count: 4;
+}
